@@ -11,7 +11,7 @@ Este teste foi criado pelo Professor Jaakko Tuomilehto do Departamento de Saúde
 
 O usuário seleciona as opções e o programa atribui pontuações com base nas respostas do usuário.
 
-- **1. Idade:**
+**1. Idade:**
 
 - 45 a 54 anos: +2 pontos
 - 55 a 64 anos: +3 pontos
