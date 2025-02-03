@@ -1,6 +1,7 @@
 # Avaliador de risco de Diabetes Mellitus tipo 2
 
 Este é um Flet app que realiza uma avaliação do risco de desenvolver diabetes tipo 2. 
+
 Este teste foi criado pelo Professor Jaakko Tuomilehto do Departamento de Saúde Pública da Universidade de Helsinki, e Jaara Lindström, MFS, do Instituto Nacional de Saúde Pública.
 
 # Funcionalidades do sistema:
@@ -23,12 +24,12 @@ Acima de 30: +3 pontos
 Pressão arterial alta:
 
 **3. Circunferência abdominal**
-Homens:
+- Homens:
 94-102cm: +2 pontos
->102: +4 pontos
-Mulheres:
+mais de 102: +4 pontos
+- Mulheres:
 80-88cm: +2 pontos
->88cm:  +4 pontos
+mais de 88cm:  +4 pontos
 
  **4. Frequência de exercício físico**
  Não: +2 pontos
@@ -44,11 +45,12 @@ Histórico de glicemia alta: +2 pontos
 
 **8. Histórico familiar:**
 
-Pais, irmãos ou filhos com diabetes: +5 pontos
-Avós, tios ou primos de primeiro grau com diabetes: +3 pontos
-Resultado final
-Baixo risco: 0 a 7 pontos
-Risco um pouco elevado: 8 a 11 pontos
-Risco moderado: 12 a 14 pontos
-Risco alto: 15 a 20 pontos
-Risco muito alto: Mais de 20 pontos
+- Pais, irmãos ou filhos com diabetes: +5 pontos
+- Avós, tios ou primos de primeiro grau com diabetes: +3 pontos
+
+**Resultado final:**
+- Baixo risco: 0 a 7 pontos
+- Risco um pouco elevado: 8 a 11 pontos
+- Risco moderado: 12 a 14 pontos
+- Risco alto: 15 a 20 pontos
+- Risco muito alto: Mais de 20 pontos
