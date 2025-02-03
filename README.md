@@ -25,14 +25,10 @@ O usuário seleciona as opções e o programa atribui pontuações com base nas 
 **3. Circunferência abdominal**
 - Homens:
 - 
-94-102cm: +2 pontos
-
-mais de 102: +4 pontos
-- Mulheres:
-- 
-80-88cm: +2 pontos
+94-102cm: +2 pontos, mais de 102: +4 pontos
   
-mais de 88cm:  +4 pontos
+- Mulheres:
+80-88cm: +2 pontos, mais de 88cm:  +4 pontos
 
  **4. Frequência de exercício físico**
  Não: +2 pontos
