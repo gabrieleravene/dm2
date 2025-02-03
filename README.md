@@ -24,7 +24,7 @@ O usuário seleciona as opções e o programa atribui pontuações com base nas 
 
 **3. Circunferência abdominal**
 - Homens:
-- 
+  
 94-102cm: +2 pontos, mais de 102: +4 pontos
   
 - Mulheres:
