@@ -13,15 +13,14 @@ O usuário seleciona as opções e o programa atribui pontuações com base nas 
 
 - **1. Idade:**
 
-45 a 54 anos: +2 pontos
-55 a 64 anos: +3 pontos
-Mais de 64 anos: +4 pontos
+- 45 a 54 anos: +2 pontos
+- 55 a 64 anos: +3 pontos
+- Mais de 64 anos: +4 pontos
 
 **2. IMC (Índice de Massa Corporal):**
 
-25 a 30: +1 ponto
-Acima de 30: +3 pontos
-Pressão arterial alta:
+- 25 a 30: +1 ponto
+- Acima de 30: +3 pontos
 
 **3. Circunferência abdominal**
 - Homens:
